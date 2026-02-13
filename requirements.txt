@@ -1,0 +1,14 @@
+#Requirements
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+phik
+jupyter
+python-dotenv
+sqlalchemy
+create_engine
+missingno
+os
+dotenv
